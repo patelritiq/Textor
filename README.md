@@ -52,7 +52,7 @@ with open("words.txt", "w") as file:
 ### 3. Run the Application
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/patelritiq/Textor.git](https://github.com/patelritiq/Textor.git)
+   git clone https://github.com/patelritiq/Textor.git
 
 2. **Run the script:**
    ```bash
