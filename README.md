@@ -1,3 +1,11 @@
+> **⚠️ This repository has been archived and moved.**
+> 
+> This project is now part of the comprehensive [CodeClause-Internship-Projects](https://github.com/patelritiq/CodeClause-Internship-Projects) repository.
+> 
+> Please visit the new repository for the latest version and all CodeClause internship projects.
+
+
+
 # Textor: A Basic Text Editor ✍️
 
 **Textor** is a lightweight, efficient text editor developed in Python using the `Tkinter` framework. It goes beyond basic note-taking by incorporating real-time spell-checking and word-count features, making it a practical tool for quick editing tasks and learning purposes.
